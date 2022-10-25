@@ -27,6 +27,19 @@ Some fun facts about the wolfish:
 - Although the fangs look scary they are actually not for hunting other fish (or people). They are actually for breaking open mollusks and crustaceans. 
 - They can live for over 12 years and can mate for life
 
+Potential Food for the Seawolf that is much more pretty. (not actually food for the seawolf)
+
+| Species         | Environment                               |
+|-----------------|-------------------------------------------|
+| Atlantic Salmon | Atlantic Ocean and Landlocked Tributaries |
+
+![](db_lachs_1.jpg)
+
+The Atlantic Salmon was extinct in the Rhine but has returned since 1990 and evidence of spawning in the Black Forest in 2005
+The Salmon is highly endangered is protected under the EU Habitat Directive. Major reasons for the decrease in numbers is the addition of structures and channelization elements 
+in the Rhine. Other reasons are the poor water quality from drainage and historical pollution.  
+
+
 Source:[A-Z Animals Website](https://a-z-animals.com/animals/wolffish/#single-animal-text)
 
 Source:[NOAA Fisheries Website](https://www.fisheries.noaa.gov/species/atlantic-wolffish)
