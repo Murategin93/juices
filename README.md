@@ -1,0 +1,2 @@
+# juices
+Test for class
